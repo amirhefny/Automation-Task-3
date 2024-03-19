@@ -25,6 +25,6 @@ public class LevelSetTest {
     }
     @AfterClass
     public void tearDown(){
-        // driver.quit();
+         driver.quit();
     }
 }
